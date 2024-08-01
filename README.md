@@ -82,11 +82,11 @@ This project demonstrates the use of an OCR system to extract information from p
 
 # How to Run the Streamlit App
 
-1. Ensure you are in the project directory and your virtual environment (if you created one) is activated.
+1. Ensure you are in the project directory and your virtual environment is activated.
 
 2. Run the Streamlit app:
     ```sh
-    streamlit run app.py
+    streamlit run ocr_module.py
     ```
 
 3. Open your web browser and go to the URL provided by Streamlit, typically `http://localhost:8501`.
